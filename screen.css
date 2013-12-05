@@ -1,0 +1,28 @@
+li {
+  list-style-type: none;
+  display: inline;
+  padding-right: 20px;
+}
+
+ul {
+  text-align: center;
+  font-size: 2em;
+  border-bottom: 3px solid gray;
+  padding-bottom: 10px;
+}
+
+.content {
+  width: 400px;
+  margin: 0 auto;
+}
+
+div {
+  position: relative;
+}
+
+img {
+  position: absolute;
+  width: 200px;
+  left: -220px;
+  top: 3em;
+}
